@@ -7,6 +7,8 @@ A full landing-page template built as the third training project from the **Elze
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Elzero Web School](https://img.shields.io/badge/Elzero%20Web%20School-Template%203-blue?style=for-the-badge)
 
+🔗 **Live Demo:** [https://shena9y.github.io/Template-three/](https://shena9y.github.io/Template-three/)
+
 ## ✨ Features
 
 - 🧲 **Mega menu** in the header with two-column link layout
